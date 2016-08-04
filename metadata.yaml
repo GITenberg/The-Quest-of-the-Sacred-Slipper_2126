@@ -1,0 +1,35 @@
+_repo: The-Quest-of-the-Sacred-Slipper_2126
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rohmer, Sax
+    alias: Ward, Arthur Sarsfield
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '110'
+    url: http://www.gutenberg.org/2009/agents/110
+    wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
+description: This juicy tale from Sax Rohmer, the British author who introduced the
+  criminal genius Dr. Fu Manchu to the world, follows an elite group of Muslim assassins
+  who are given the mission of exacting vengeance on those responsible for absconding
+  with one of Islam's most holy relics -- an intricately decorated slipper purported
+  to have belonged to Muhammad himself.
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '2000-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Relics -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Assassins -- Fiction'
+- !lcsh 'Murder -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: The Quest of the Sacred Slipper
+url: http://www.gutenberg.org/ebooks/2126
