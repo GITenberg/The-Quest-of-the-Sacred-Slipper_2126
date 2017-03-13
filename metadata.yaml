@@ -1,5 +1,8 @@
 _repo: The-Quest-of-the-Sacred-Slipper_2126
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rohmer, Sax
@@ -14,6 +17,8 @@ description: This juicy tale from Sax Rohmer, the British author who introduced 
   who are given the mission of exacting vengeance on those responsible for absconding
   with one of Islam's most holy relics -- an intricately decorated slipper purported
   to have belonged to Muhammad himself.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2126#The-Quest-of-the-Sacred-Slipper
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '2000-03-01'
 gutenberg_type: Text
